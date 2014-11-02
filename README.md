@@ -1,5 +1,3 @@
-biomedical-signal-processing
-============================
 
 Programlardaki tanımlanmayan değişkenlere ilişkin;
 
